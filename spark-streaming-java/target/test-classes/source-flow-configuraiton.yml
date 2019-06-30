@@ -1,0 +1,13 @@
+properties:
+ applicationName: Sprak Streaming
+ sparkMaster: local
+configurations:
+   -sourceMappingFile: 
+   -sinkMappingFile:
+   -sourceFormat:
+   sourceOptions:
+    path:
+    stagePath:
+    archivePath:
+    checkPointLocaiton:
+   
