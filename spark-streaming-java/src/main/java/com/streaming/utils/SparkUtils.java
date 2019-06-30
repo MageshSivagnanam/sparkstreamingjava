@@ -1,5 +1,5 @@
 package com.streaming.utils;
 
-public class StreamingUtils {
+public class SparkUtils {
 
 }
